@@ -35,7 +35,7 @@ from core.logger import logger
 from core.banners import get_banner
 from plugins import *
 
-print get_banner()
+print (get_banner())
 
 mitmf_version = '0.9.8'
 mitmf_codename = 'The Dark Side'
